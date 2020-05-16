@@ -12,3 +12,4 @@ numero_de_barras = int(numero_de_barras)
 print ("Precio habitual " + str(precio))
 print ("Descuento " + str(precio_con_descuento))
 print ("Coste final: " + str(numero_de_barras * precio_con_descuento))
+
